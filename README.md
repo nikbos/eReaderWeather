@@ -1,3 +1,9 @@
+<!-- Screenshots -->
+### :camera: Screenshots
+
+<div align="center"> 
+  <img src="eReaderWeather.png" alt="screenshot" />
+</div>
 
 
 <!-- Table of Contents -->
@@ -30,12 +36,6 @@
 ## :star2: About the Project
 
 
-<!-- Screenshots -->
-### :camera: Screenshots
-
-<div align="center"> 
-  <img src="eReaderWeather.png" alt="screenshot" />
-</div>
 
 
 <!-- TechStack -->
